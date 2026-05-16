@@ -22,6 +22,8 @@ The focus is on practical access governance tasks:
 ## Files Included
 
 - `ACCESS_REVIEW_TABLE.md` - user-by-user access review decisions
+- `ACCESS_REVIEW_CHECKLIST.md` - repeatable checklist for running an access review cycle
+- `AUDIT_EVIDENCE_REQUEST_LIST.md` - evidence request tracker for audit-readiness
 - `EXCEPTION_LOG.md` - documented access exceptions requiring action
 - `REMEDIATION_TRACKER.md` - tracked fixes with owner, due date, and validation method
 - `FINDINGS.md` - findings summary, risk overview, and recommendations
