@@ -3,7 +3,7 @@
 
 **Best-fit roles:** GRC Analyst, IT Compliance Analyst, IT Risk Analyst, IAM Support, Access Review Support, Audit Evidence Support, Security Support, IT Support with compliance exposure.
 
-**What this proves:** I can structure an access review, identify least-privilege gaps, document exceptions, track remediation, and organize audit-ready evidence without overstating senior audit ownership.
+**What this proves:** I can structure an access review, identify least-privilege gaps, document exceptions, track remediation, and organize audit-ready evidence without overstating ownership or authority.
 
 **Search keywords:** GRC, IT compliance, IT audit, access review, audit evidence, IAM, least privilege, SOX ITGC, HIPAA, NIST CSF, remediation tracking, exception log, access governance, control evidence, risk management.
 
@@ -64,4 +64,4 @@ No real employer, tenant, user, device, or confidential operational data is incl
 
 ## Positioning
 
-This project is positioned for junior cybersecurity/GRC roles and reflects operational practice, not senior audit ownership or enterprise-wide leadership.
+This project is positioned for junior cybersecurity/GRC roles and reflects operational practice, not ownership of an audit program or enterprise-wide leadership.
