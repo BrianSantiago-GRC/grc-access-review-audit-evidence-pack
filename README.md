@@ -9,7 +9,7 @@
 
 **Start here:** [RECRUITER_REVIEW.md](RECRUITER_REVIEW.md)
 
-**Honest scope:** Portfolio access review and audit evidence pack using sanitized sample data. This does not claim ownership of an employer audit program or senior GRC authority.
+**Honest scope:** Portfolio access review and audit evidence pack using sanitized sample data. This is scoped as portfolio practice, not as ownership of an employer audit program.
 <!-- recruiter-review:end -->
 
 # GRC Access Review and Audit Evidence Pack
