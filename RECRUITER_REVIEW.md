@@ -36,4 +36,4 @@ GRC, IT compliance, IT audit, IT risk, access review, access governance, IAM, le
 
 ## Honest Scope
 
-This is a portfolio access review and audit evidence pack using sanitized sample data. It does not claim employer audit ownership, senior GRC authority, or management of a live compliance program.
+This is a portfolio access review and audit evidence pack using sanitized sample data. It is scoped as portfolio practice, not employer audit ownership or management of a live compliance program.
