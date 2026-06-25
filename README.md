@@ -1,3 +1,17 @@
+<!-- recruiter-review:start -->
+## Recruiter Quick Review
+
+**Best-fit roles:** GRC Analyst, IT Compliance Analyst, IT Risk Analyst, IAM Support, Access Review Support, Audit Evidence Support, Security Support, IT Support with compliance exposure.
+
+**What this proves:** I can structure an access review, identify least-privilege gaps, document exceptions, track remediation, and organize audit-ready evidence without overstating senior audit ownership.
+
+**Search keywords:** GRC, IT compliance, IT audit, access review, audit evidence, IAM, least privilege, SOX ITGC, HIPAA, NIST CSF, remediation tracking, exception log, access governance, control evidence, risk management.
+
+**Start here:** [RECRUITER_REVIEW.md](RECRUITER_REVIEW.md)
+
+**Honest scope:** Portfolio access review and audit evidence pack using sanitized sample data. This does not claim ownership of an employer audit program or senior GRC authority.
+<!-- recruiter-review:end -->
+
 # GRC Access Review and Audit Evidence Pack
 
 ## Project Purpose
