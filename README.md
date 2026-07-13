@@ -1,67 +1,32 @@
-<!-- recruiter-review:start -->
-## Recruiter Quick Review
+# Access Review and Audit Evidence Pack
 
-**Best-fit roles:** GRC Analyst, IT Compliance Analyst, IT Risk Analyst, IAM Support, Access Review Support, Audit Evidence Support, Security Support, IT Support with compliance exposure.
+**A synthetic 15-record access-review exercise showing decisions, exceptions, remediation ownership, and evidence traceability.**
 
-**What this proves:** I can structure an access review, identify least-privilege gaps, document exceptions, track remediation, and organize audit-ready evidence without overstating ownership or authority.
+## Problem, Action, Result
 
-**Search keywords:** GRC, IT compliance, IT audit, access review, audit evidence, IAM, least privilege, SOX ITGC, HIPAA, NIST CSF, remediation tracking, exception log, access governance, control evidence, risk management.
+**Problem:** An access review is difficult to audit when decisions, exceptions, owners, due dates, and validation evidence are scattered.
 
-**Start here:** [RECRUITER_REVIEW.md](RECRUITER_REVIEW.md)
+**Action:** I reviewed 15 synthetic access records, documented `Keep`, `Modify`, or `Remove` decisions, logged exceptions, assigned remediation actions, and mapped the workflow to access-control concepts.
 
-**Honest scope:** Portfolio access review and audit evidence pack using sanitized sample data. This is scoped as portfolio practice, not as ownership of an employer audit program.
-<!-- recruiter-review:end -->
+**Result:** The pack contains 10 `Keep`, 2 `Modify`, and 3 `Remove` decisions with a clear path from review to finding to remediation. It demonstrates process design and documentation, not authority over a live audit or identity system.
 
-# GRC Access Review and Audit Evidence Pack
+## 90-Second Review
 
-## Project Purpose
+1. Open the [`access-review table`](ACCESS_REVIEW_TABLE.md).
+2. Compare the [`exception log`](EXCEPTION_LOG.md) with the [`remediation tracker`](REMEDIATION_TRACKER.md).
+3. Read the [`findings summary`](FINDINGS.md).
+4. Use the [`evidence request list`](AUDIT_EVIDENCE_REQUEST_LIST.md) to see how proof would be gathered.
 
-This portfolio project demonstrates a grounded junior GRC/compliance workflow for documenting an access review with audit-ready evidence.
+## Evidence Map
 
-The focus is on practical access governance tasks:
+| Artifact | Reviewer takeaway |
+|---|---|
+| `ACCESS_REVIEW_TABLE.md` | Record-level decisions and rationale |
+| `EXCEPTION_LOG.md` | Risk, owner, and follow-up visibility |
+| `REMEDIATION_TRACKER.md` | Due dates and validation method |
+| `AUDIT_EVIDENCE_REQUEST_LIST.md` | Traceable evidence requests |
+| `screenshots/` | Rendered previews generated from the Markdown artifacts |
 
-- reviewing role-based access appropriateness
-- identifying excessive permissions
-- documenting exceptions
-- tracking remediation actions
-- mapping outputs to common control frameworks
+## Scope Boundary
 
-## Scope
-
-- 15 sample user access records reviewed
-- 10 `Keep` decisions
-- 2 `Modify` decisions
-- 3 `Remove` decisions
-
-## Files Included
-
-- `ACCESS_REVIEW_TABLE.md` - user-by-user access review decisions
-- `ACCESS_REVIEW_CHECKLIST.md` - repeatable checklist for running an access review cycle
-- `AUDIT_EVIDENCE_REQUEST_LIST.md` - evidence request tracker for audit-readiness
-- `EXCEPTION_LOG.md` - documented access exceptions requiring action
-- `REMEDIATION_TRACKER.md` - tracked fixes with owner, due date, and validation method
-- `FINDINGS.md` - findings summary, risk overview, and recommendations
-- `SCREENSHOT_CAPTURE_CHECKLIST.md` - evidence checklist and sanitization rules
-- `screenshots/` - screenshot evidence aligned to the checklist
-
-## Evidence and Sanitization
-
-All data in this project is sanitized sample data for portfolio demonstration.
-
-No real employer, tenant, user, device, or confidential operational data is included.
-
-## Control Mapping (Portfolio Level)
-
-- NIST CSF PR.AC-1 / PR.AC-4
-- NIST CSF DE.CM-1
-- HIPAA 164.308(a)(4) Information Access Management
-
-## What This Demonstrates
-
-- Ability to perform and document an access review in a structured way
-- Ability to identify least-privilege gaps and propose reductions/removals
-- Ability to produce audit-friendly artifacts with evidence traceability
-
-## Positioning
-
-This project is positioned for junior cybersecurity/GRC roles and reflects operational practice, not ownership of an audit program or enterprise-wide leadership.
+Every person, role, system, decision, and screenshot in this repository is synthetic portfolio data. The images are rendered documentation previews, not exports from Entra, an IAM platform, or an audit application.
